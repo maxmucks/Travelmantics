@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "36439911336",
+    "firebase_url": "https://alc40-e273b.firebaseio.com",
+    "project_id": "alc40-e273b",
+    "storage_bucket": "alc40-e273b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36439911336:android:d061d5f9d2029799",
+        "android_client_info": {
+          "package_name": "com.maxmux.travelmantics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36439911336-o2bn70vehb9h0uf6bp29d8lthktm9jj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maxmux.travelmantics",
+            "certificate_hash": "41425194a9f513efccece312531c53831c52d713"
+          }
+        },
+        {
+          "client_id": "36439911336-u5io84vclrkvjc44rsbn96lv108envjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMo1Abo-szvlXkKuXQZEQVH8sym0ZC-9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36439911336-u5io84vclrkvjc44rsbn96lv108envjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
